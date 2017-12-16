@@ -1,9 +1,9 @@
 # reactictactoe
 
-##Tic Tac Toe game 
+## Tic Tac Toe game 
 
-######Made with React
+###### Made with React
 
-######Bootstrapped with Create React App
+###### Bootstrapped with Create React App
 
-######--Use 'npm start' to render
+###### --use 'npm start' to render

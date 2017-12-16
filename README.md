@@ -1,6 +1,6 @@
-# reactictactoe
+# reactictoe
 
-## Tic Tac Toe game 
+### Classic tic tac toe game 
 
 ###### Made with React
 

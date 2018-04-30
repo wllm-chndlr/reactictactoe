@@ -1,9 +1,13 @@
 # reactictoe
 
-### Classic tic tac toe game 
+## Classic tic tac toe game 
 
-###### Made with React
+#### Built with React and bootstrapped with Create React App
 
-###### Bootstrapped with Create React App
+#### To play, clone or download and type the following in your terminal:
 
-###### --use 'npm start' to render
+```javascript
+ npm start 
+ ```
+
+ ![game board](./src/screenshot.png)
